@@ -1,0 +1,8 @@
+.Abody{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #F5EFE7;
+  height: 100%;
+}

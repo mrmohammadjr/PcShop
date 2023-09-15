@@ -1,0 +1,26 @@
+.Cbody{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #F5EFE7;
+  height: 100%;
+}
+.items{
+  border: 2px solid #321E1E;
+  height: auto;
+  margin: 2px;
+  border-radius: 50px;
+  width: 80%;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sideBtn{
+  width: 100%;
+  display : flex;
+  justify-content: space-between;
+  padding: 9px;
+}
